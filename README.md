@@ -1,7 +1,8 @@
 # Kotlin-Notification_with_action_button
 ## Intent
 #### 4개의 컴포넌트들 간의 상호작용(?) 을 중간에서 중계해줌.
-
+#  
+#  
 ## 컴포넌트
 ### 1) Activity
 #### 핸드폰에서 보이는 화면을 의미함.
