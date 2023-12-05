@@ -6,14 +6,26 @@
 ### 1) Activity
 #### 핸드폰에서 보이는 화면을 의미함.
 
+
+  
+
 ### 2) Service
 #### 백그라운드에서 실행되는 작업을 의미함.
+
+
+  
 
 ### 3) Broadcast Receiver
 #### 특정한 이벤트(?) 구문을 처리함.
 
+
+  
+
 ### 4) Content Provider
 #### 데이터를 관리하고 다른 어플과 데이터를 교환(?)함.
+
+
+  
 
 #### 추가 코드
       val intent = Intent(this, Notification_Receiver::class.java).apply {
